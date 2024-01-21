@@ -1,1 +1,1 @@
-# Pairs-Trading-Strategyis
+# Pairs-Trading-Strategies
